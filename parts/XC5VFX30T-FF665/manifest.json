@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Xilinx_Virtex5/XC5VFX30T-FF665:XC5VFX30T-FF665",
+  "name": "XC5VFX30T-FF665",
+  "library": "FPGA_Xilinx_Virtex5",
+  "file": "FPGA_Xilinx_Virtex5.kicad_symdir/XC5VFX30T-FF665.kicad_sym",
+  "description": "Virtex 5 FXT 30 XC5VFX30T-FF665",
+  "datasheet": "",
+  "keywords": "FPGA",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-xilinx-virtex5@master/parts/XC5VFX30T-FF665/",
+  "part_path": "parts/XC5VFX30T-FF665",
+  "symbol_file": "parts/XC5VFX30T-FF665/XC5VFX30T-FF665.kicad_sym",
+  "source_library": "FPGA_Xilinx_Virtex5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:18.393Z"
+}
